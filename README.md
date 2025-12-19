@@ -1,2 +1,2 @@
-# Machine-Learning
-This repository consists of the applications related to Machine Learning.
+# Machine-Learning-Concepts
+This repository consists of the applications related to understanding Machine Learning.
